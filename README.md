@@ -9,5 +9,6 @@
 * 查询等功能和[alfred-mweb-workflow](https://github.com/tianhao/alfred-mweb-workflow)一样。
 * 发布文章到Hexo
  只需要输入hpush，然后选择你想要push的文章即可。
+ 
  `hpush -t tag1,tag2 filename`
     
